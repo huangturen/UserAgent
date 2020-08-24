@@ -1,0 +1,2 @@
+# UserAgent
+UserAgent for wkwebview
